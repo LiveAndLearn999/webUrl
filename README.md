@@ -75,4 +75,4 @@
 1. ECharts：http://echarts.baidu.com/   (点击事件：http://echarts.baidu.com/echarts2/doc/example/event.html)
 2. 阿里可视化：https://antv.alipay.com/
 3.阿里charts
-# <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+# --以上借鉴于（https://github.com/Mirror198829/front-end）
